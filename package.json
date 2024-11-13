@@ -2,7 +2,7 @@
   "name": "multipages",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://PinSpuMS.github.io/2566-02-csi205-multiPagesVerNav_",
+  "homepage": "https://PinSpuMS.github.io/2566-02-csi205-multipagesVerNav_",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",

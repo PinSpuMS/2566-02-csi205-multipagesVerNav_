@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/2566-02-csi205-multiPagesVerNav_/'
+  base: '/2566-02-csi205-multipagesVerNav_/'
 })
